@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Seafood/static/css/main.6837e225.css",
+    "main.js": "/Seafood/static/js/main.76b8a6f7.js",
+    "index.html": "/Seafood/index.html",
+    "main.6837e225.css.map": "/Seafood/static/css/main.6837e225.css.map",
+    "main.76b8a6f7.js.map": "/Seafood/static/js/main.76b8a6f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6837e225.css",
+    "static/js/main.76b8a6f7.js"
+  ]
+}
